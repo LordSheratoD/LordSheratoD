@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LordSheratoD
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C# and C
+- 💞️ I’m looking to collaborate on Cyber Security
